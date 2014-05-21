@@ -6,12 +6,14 @@
 
 ### My Quiz Results:
 
+![alt tag](https://www.flickr.#com/photos/120930787@N08/14212211686/)
+
 #<img src ="file:///Users/alexisernst/Desktop/sqlzoo_quiz.#jpg" alt = "My Quiz Results"/>
 
 #<a href="file:///Users/alexisernst/Desktop/sqlzoo_quiz.jpg"
 #>Link Anchor</a>
 
-<img src ="https://www.flickr.com/photos/120930787@N08/14212211686/" alt = "My Quiz Results/>
+#<img src ="https://www.flickr.#com/photos/120930787@N08/14212211686/" alt = "My Quiz #Results/>
 
 #file:///Users/alexisernst/Desktop/sqlzoo_quiz.jpg
 

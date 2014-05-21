@@ -11,7 +11,7 @@
 #<a href="file:///Users/alexisernst/Desktop/sqlzoo_quiz.jpg"
 #>Link Anchor</a>
 
-<a><img src="file:///Users/alexisernst/Desktop/sqlzoo_quiz.jpg" alt="MY QUIZ RESULTS"></a>
+<p><img src ="http://jokideo.com/wp-content/uploads/2012/05/DOG-pictures-funny-582.jpg" alt = "My Quiz Results"/></p>
 
 #file:///Users/alexisernst/Desktop/sqlzoo_quiz.jpg
 

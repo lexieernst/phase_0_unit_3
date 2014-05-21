@@ -6,7 +6,11 @@
 
 ### My Quiz Results:
 
-![alt tag](https://www.flickr.#com/photos/120930787@N08/14212211686/)
+#![alt tag](https://www.flickr.#com/photos/120930787@N08/14212211686/)
+
+![alt tag](http://i.imgur.com/KEs04QO.png/to/img.png)
+
+#http://i.imgur.com/KEs04QO.png
 
 #<img src ="file:///Users/alexisernst/Desktop/sqlzoo_quiz.#jpg" alt = "My Quiz Results"/>
 

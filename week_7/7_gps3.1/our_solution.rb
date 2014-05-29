@@ -97,18 +97,18 @@ blah.quantity
 # list.included?("steak")
 # steak.name
 
- Release 5: [Reflect]
+ #Release 5: [Reflect]
 
- This by far was the most productive GPS that I have had. 
- I learned a lot of new information, especially when to 
- define certain instance methods. This was shown to me by 
- having two instance methods... quantity and quantity=new_quantity.
- Maria further explained this in an email after our GPS. It is
- because the interpreter sucks the whitespace from between the method
- name "quantity" and the equals sign, so it thinks you are calling
- the method quantity= as opposed to just quantity. Of course,
- the attr_reader takes care of all of this, it was really helpful 
- seeing this all come to life from scratch. I also learned a lot
- about include?. Certain things were not passing with destructive
- methods, etc. and it was intereting fixing these issues. In all,
- I really feel I learned a lot! :)
+#This by far was the most productive GPS that I have had. 
+#I learned a lot of new information, especially when to 
+#define certain instance methods. This was shown to me by 
+#having two instance methods... quantity and quantity=new_quantity.
+#Maria further explained this in an email after our GPS. It is
+#because the interpreter sucks the whitespace from between the method
+#name "quantity" and the equals sign, so it thinks you are calling
+#the method quantity= as opposed to just quantity. Of course,
+#the attr_reader takes care of all of this, it was really helpful 
+#seeing this all come to life from scratch. I also learned a lot
+#about include?. Certain things were not passing with destructive
+#methods, etc. and it was intereting fixing these issues. In all,
+#I really feel I learned a lot! :)
